@@ -81,7 +81,7 @@ The model achieved an **accuracy of 99.19%** on the validation set after 10 epoc
 ---
 
 ## 📁 Files Included
-- 📓 [MNIST_CNN_Model.ipynb](./MNIST_CNN_Model.ipynb)
+📓 [MNIST_CNN_Model.ipynb](https://github.com/JyotiTidke26/MNIST-Image-Classification-with-CNN/blob/main/Mnist_CNN_Computer_Vision.ipynb)
 
 ---
 
