@@ -54,10 +54,10 @@ The architecture includes:
 
 ### 🚀 5. Model Compilation & Training
 - The model is compiled with:
-  - **Loss function:** `sparse_categorical_crossentropy`
+  - **Loss function:** `categorical_crossentropy`
   - **Optimizer:** `Adam`
   - **Metrics:** `accuracy`
-- The model is trained for **15 epochs** with a batch size of **32**, and training performance is monitored on both training and validation datasets.
+- The model is trained for **10 epochs** with a batch size of **64**, and training performance is monitored on both training and validation datasets.
 
 ---
 
@@ -68,7 +68,7 @@ The architecture includes:
 ---
 
 ### 🏆 7. Results
-The model achieved an **accuracy of around 98%** on the validation set after 15 epochs of training. This is a strong result, demonstrating that the custom CNN model is capable of recognizing handwritten digits effectively.
+The model achieved an **accuracy of 99.23%** on the validation set after 10 epochs of training. This is a strong result, demonstrating that the custom CNN model is capable of recognizing handwritten digits effectively.
 
 ---
 
@@ -76,13 +76,12 @@ The model achieved an **accuracy of around 98%** on the validation set after 15 
 
 | **Model Type**   | **Test Accuracy** | **Test Loss** |
 |------------------|-------------------|---------------|
-| Custom CNN      | **98.0%**          | 0.0344        |
+| Custom CNN      | **99.23%**          | 0.1453        |
 
 ---
 
 ## 📁 Files Included
 - 📓 [MNIST_CNN_Model.ipynb](./MNIST_CNN_Model.ipynb)
-- 📦 [MNIST Dataset](https://www.kaggle.com/oddrationale/mnist-in-csv) or direct import from TensorFlow
 
 ---
 
