@@ -6,7 +6,7 @@ This project implements an image classification pipeline on the **MNIST dataset*
 ---
 
 ## 🎯 Objective
-Classify images from the [MNIST dataset](http://yann.lecun.com/exdb/mnist/) that consist of 28x28 pixel grayscale images of handwritten digits. The project demonstrates the development of a custom CNN model for image classification.
+Classify images from the MNIST dataset that consist of 28x28 pixel grayscale images of handwritten digits. The project demonstrates the development of a custom CNN model for image classification.
 
 ---
 
