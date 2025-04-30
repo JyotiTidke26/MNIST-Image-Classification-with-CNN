@@ -68,7 +68,7 @@ The architecture includes:
 ---
 
 ### 🏆 7. Results
-The model achieved an **accuracy of 99.23%** on the validation set after 10 epochs of training. This is a strong result, demonstrating that the custom CNN model is capable of recognizing handwritten digits effectively.
+The model achieved an **accuracy of 99.19%** on the validation set after 10 epochs of training. This is a strong result, demonstrating that the custom CNN model is capable of recognizing handwritten digits effectively.
 
 ---
 
@@ -76,7 +76,7 @@ The model achieved an **accuracy of 99.23%** on the validation set after 10 epoc
 
 | **Model Type**   | **Test Accuracy** | **Test Loss** |
 |------------------|-------------------|---------------|
-| Custom CNN      | **99.23%**          | 0.1453        |
+| Custom CNN      | **99.19%**          | 0.1412        |
 
 ---
 
